@@ -9,5 +9,7 @@ public static void main(String args[]) {
 public static void greet() {
 	// TODO Auto-generated method stub
 	System.out.println("hello");
+	System.out.println("capgemini");
+	System.out.println("first git demo");
 }
 }
